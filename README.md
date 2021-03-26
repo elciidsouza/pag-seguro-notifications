@@ -1,4 +1,4 @@
-# pag-seguro-notifications
+# PagSeguro Notifications
 Simple system to receive a notifications by pagseguro
 
 INSTALL:
